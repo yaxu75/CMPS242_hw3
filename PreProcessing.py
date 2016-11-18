@@ -14,7 +14,7 @@ label_2 = "spam"
 ham_list=[]
 spam_list=[]
 
-root = '/Users/yaxu/PycharmProjects/CMPS242_hw3/data'
+root = '.../data'
 directories = ['enron1','enron2','enron3','enron4','enron5']
 labels=['ham','spam']
 
